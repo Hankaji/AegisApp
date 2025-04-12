@@ -1,0 +1,9 @@
+[submodule "Aegis_FE"]
+	path = Aegis_FE
+	url = git@github.com:Hankaji/GDGDoc-Aegis-Frontend.git
+[submodule "Aegis_BE"]
+	path = Aegis_BE
+	url = git@github.com:DankoFox/aegis-backend.git
+[submodule "Aegis_AI"]
+	path = Aegis_AI
+	url = git@github.com:nmquan1/aegis-pipeline.git
