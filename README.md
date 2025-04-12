@@ -48,4 +48,4 @@ cd <submodule>
 ```
 Each submodule will reside in its own directory within this repository. You can navigate into these directories to work on them.
 
-A detail instruction on how to setup these systems are already well documented it their own repositories, please check the [Frontend](https://github.com/Hankaji/GDGDoc-Aegis-Frontend), [Backend](https://github.com/DankoFox/aegis-backend) and [AI](https://github.com/nmquan1/aegis-pipeline).
+A detail instruction on how to setup these systems are already well documented in their own repositories, please check the [Frontend](https://github.com/Hankaji/GDGDoc-Aegis-Frontend), [Backend](https://github.com/DankoFox/aegis-backend) and [AI](https://github.com/nmquan1/aegis-pipeline).
